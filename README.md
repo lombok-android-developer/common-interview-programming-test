@@ -24,9 +24,14 @@ Take an example, one of the most common questions is Fibonacy, recursion, or str
  */
 ```
 
+- Write example code of the algorithm that can sole the cases.
+
+
 DO:
 - write your name
 - write documentations
+- give sample data to test
+- write Unit Testing
 
 Don't:
 - write employer/companies name who's giving this test
